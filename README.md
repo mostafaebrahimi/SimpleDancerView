@@ -1,3 +1,5 @@
 # SimpleDancerView
-An Android Custom View that uses complex number algorithm to dance spiral
-![App Screen](https://gfycat.com/WideDarkBrant)
+
+<p align="center">
+  <img src="https://i.imgflip.com/2pxb0g.gif" alt="DancerView" width="150">
+</p>
